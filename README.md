@@ -13,9 +13,11 @@ Gameplay images:
 <div>
 <img align="left" width="200" height="387" src="GameScreenshots/sc_01.png">
 <img align="left" width="200" height="387" src="GameScreenshots/sc_02.png">
-<img align="left" width="200" height="387" src="GameScreenshots/sc_03.png">
+<img align="left" width="200" height="387" src="GameScreenshots/sc_04.png">
 </div>
 </br>
 <div>
-
+<img align="left" width="200" height="387" src="GameScreenshots/sc_05.png">
+<img align="left" width="200" height="387" src="GameScreenshots/sc_06.png">
+<img align="left" width="200" height="387" src="GameScreenshots/sc_07.png">
 </div>
