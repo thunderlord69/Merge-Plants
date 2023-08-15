@@ -15,10 +15,12 @@ Gameplay images:
 <img align="left" width="200" height="387" src="GameScreenshots/sc_02.png">
 <img align="left" width="200" height="387" src="GameScreenshots/sc_04.png">
 </div>
-</br>
-</br>
+
+
 <div>
 <img align="left" width="200" height="387" src="GameScreenshots/sc_05.png">
 <img align="left" width="200" height="387" src="GameScreenshots/sc_06.png">
 <img align="left" width="200" height="387" src="GameScreenshots/sc_07.png">
 </div>
+
+[<img src="GameScreenshots/sc_05.png" width="600" height="300"/>]([https://www.youtube.com/embed/APOPm01BVrk](https://drive.google.com/file/d/1gIwhi2ALtkplt0k1HJiDTE-r4YUAwRuc/view?usp=sharing)https://drive.google.com/file/d/1gIwhi2ALtkplt0k1HJiDTE-r4YUAwRuc/view?usp=sharing)
