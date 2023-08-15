@@ -9,18 +9,24 @@ As you progress through the game, you'll encounter various enemies that pose a t
 Merge Plants offers a unique and immersive gaming experience with its stunning visuals and engaging gameplay. With over 10 of plants to collect and evolve, you'll never run out of things to do in this game. Whether you're a casual player or a hardcore gamer, Merge Plants is the perfect game for you.
 
 Gameplay images:
-
+<div>
+  
 <div>
 <img align="left" width="200" height="387" src="GameScreenshots/sc_01.png">
 <img align="left" width="200" height="387" src="GameScreenshots/sc_02.png">
 <img align="left" width="200" height="387" src="GameScreenshots/sc_04.png">
 </div>
-
-
 <div>
 <img align="left" width="200" height="387" src="GameScreenshots/sc_05.png">
 <img align="left" width="200" height="387" src="GameScreenshots/sc_06.png">
 <img align="left" width="200" height="387" src="GameScreenshots/sc_07.png">
 </div>
+</div>
 
-[<img src="GameScreenshots/sc_05.png" width="600" height="300"/>]([https://www.youtube.com/embed/APOPm01BVrk](https://drive.google.com/file/d/1gIwhi2ALtkplt0k1HJiDTE-r4YUAwRuc/view?usp=sharing)https://drive.google.com/file/d/1gIwhi2ALtkplt0k1HJiDTE-r4YUAwRuc/view?usp=sharing)
+<div>
+
+Gameplay videos:
+  - https://drive.google.com/file/d/1gIwhi2ALtkplt0k1HJiDTE-r4YUAwRuc/view?usp=sharing
+  - https://drive.google.com/file/d/1ZgevLp14KzMGaLtP4UYr5gYfTDaQEWOQ/view?usp=sharing
+
+</div>
