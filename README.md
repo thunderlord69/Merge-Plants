@@ -13,7 +13,7 @@ Gameplay images:
 <div>
 <img align="left" width="200"  src="GameScreenshots/sc_01.png">
 <img align="left" width="200"  src="GameScreenshots/sc_02.png">
-
+<img align="left" width="200"  src="GameScreenshots/sc_03.png">
 </div>
 </br>
 <div>
