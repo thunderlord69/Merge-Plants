@@ -11,9 +11,9 @@ Merge Plants offers a unique and immersive gaming experience with its stunning v
 Gameplay images:
 
 <div>
-<img align="left" width="200" height="355.5" src="GameScreenshots/sc_01.png">
-<img align="left" width="200" height="355.5" src="GameScreenshots/sc_01.png">
-<img align="left" width="200" height="355.5" src="GameScreenshots/sc_01.png">
+<img align="left" width="200" height="385" src="GameScreenshots/sc_01.png">
+<img align="left" width="200" height="385" src="GameScreenshots/sc_01.png">
+<img align="left" width="200" height="385" src="GameScreenshots/sc_01.png">
 </div>
 </br>
 <div>
