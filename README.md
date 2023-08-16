@@ -11,7 +11,9 @@ Merge Plants offers a unique and immersive gaming experience with its stunning v
 <b>Tehnologies used in this project:</b>
 
  - Unity game engine
- - C# 
+ - C#
+ - Blender
+ - Adobe Photoshop
 
 <b>Gameplay videos:</b>
   - https://drive.google.com/file/d/1gIwhi2ALtkplt0k1HJiDTE-r4YUAwRuc/view?usp=sharing
